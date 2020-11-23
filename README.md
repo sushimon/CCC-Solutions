@@ -5,7 +5,8 @@ This repository stores all of my solutions for problems found on the [CCC Online
 What is n, Daddy?: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/J1.py) - 15/15<br />
 Up and Down: [J2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/J2.py) - 15/15<br />
 Punchy: [J3](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/J3.py) - 15/15<br />
-Global Warming: [J4](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/J4.py) - 6/15<br />
+Global Warming: [J4](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/J4.py) - 6/15<br /><br />
+Computer Purchase: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/S1.py) - 15/15<br />
 
 ## CCC 2019 Solutions
 Winning Score: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202019/J1.py) - 15/15<br />
