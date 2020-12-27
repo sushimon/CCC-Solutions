@@ -19,5 +19,5 @@ Dog Treats: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%20202
 Epidemiology: [J2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202020/J2.py) - 15/15<br />
 Art: [J3](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202020/J3.py) - 15/15<br />
 Cyclic Shifts: [J4](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202020/J4.py) - 15/15<br />
-Escape Room: [J5](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202020/J5%20v2.py) - 11/15<br /><br />
+Escape Room: [J5](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202020/J5%20v3.py) - 13/15<br /><br />
 Surmising a Sprinter's Speed: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202020/S1.py) - 15/15<br />
