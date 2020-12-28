@@ -1,12 +1,18 @@
 # CCC-Solutions
 This repository stores all of my solutions for problems found on the [CCC Online Grader](https://cccgrader.com/home.php) website. They can also be found on the [DMOJ](https://dmoj.ca/) website as well.<br />
 
+## CCC 2002 Solutions
+Fraction Action: [S2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202002/S2.py) - 15/15<br />
+
 ## CCC 2010 Solutions
 What is n, Daddy?: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/J1.py) - 15/15<br />
 Up and Down: [J2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/J2.py) - 15/15<br />
 Punchy: [J3](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/J3.py) - 15/15<br />
 Global Warming: [J4](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/J4.py) - 6/15<br /><br />
 Computer Purchase: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/S1.py) - 15/15<br />
+
+## CCC 2014 Solutions
+Triangle Times: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202014/J1.py) - 15/15<br />
 
 ## CCC 2019 Solutions
 Winning Score: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202019/J1.py) - 15/15<br />
