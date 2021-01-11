@@ -11,6 +11,10 @@ Punchy: [J3](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/J3
 Global Warming: [J4](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/J4.py) - 6/15<br /><br />
 Computer Purchase: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202010/S1.py) - 15/15<br />
 
+## CCC 2011 Solutions
+English or French?: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202011/S1.py) - 15/15<br />
+Multiple Choice: [S2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202011/S2.py) - 15/15<br />
+
 ## CCC 2014 Solutions
 Triangle Times: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202014/J1.py) - 15/15<br />
 
