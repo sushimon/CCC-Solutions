@@ -19,7 +19,8 @@ Multiple Choice: [S2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%
 From 1987 to 2013: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202013/S1.py) - 15/15<br />
 
 ## CCC 2014 Solutions
-Triangle Times: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202014/J1.py) - 15/15<br />
+Triangle Times: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202014/J1.py) - 15/15<br /><br />
+Party Invitation: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202014/S1.py) - 15/15<br />
 
 ## CCC 2019 Solutions
 Winning Score: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202019/J1.py) - 15/15<br />
