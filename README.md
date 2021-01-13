@@ -15,6 +15,9 @@ Computer Purchase: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/cc
 English or French?: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202011/S1.py) - 15/15<br />
 Multiple Choice: [S2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202011/S2.py) - 15/15<br />
 
+## CCC 2013 Solutions
+From 1987 to 2013: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202013/S1.py) - 15/15<br />
+
 ## CCC 2014 Solutions
 Triangle Times: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202014/J1.py) - 15/15<br />
 
