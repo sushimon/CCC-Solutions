@@ -27,7 +27,8 @@ Assigning Partners: [S2](https://github.com/sushimon/CCC-Solutions/blob/master/c
 Winning Score: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202019/J1.py) - 15/15<br />
 Time to Decompress: [J2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202019/J2.py) - 15/15<br />
 Cold Compress: [J3](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202019/J3.py) - 15/15<br />
-Flipper: [J4/S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202019/J4.py) - 15/15<br />
+Flipper: [J4/S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202019/J4.py) - 15/15<br /><br />
+Pretty Average Primes: [S2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202019/S2.py) - 15/15<br />
 
 ## CCC 2020 Solutions
 Dog Treats: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202020/J1.py) - 15/15<br />
