@@ -9,9 +9,9 @@ for r in range(1, rows + 1):
         visited[(r,c)] = False
 
 def dfs():
-    q = [(1, 1)]
-    while q:
-        r, c = q.pop()
+    s = [(1, 1)]
+    while s:
+        r, c = s.pop()
         visited[(r, c)] = True
         currVal = grid[r - 1][c - 1]
         if currVal == rows * cols:
@@ -24,7 +24,7 @@ def dfs():
                             break
                         if x * y == currVal:
                             if visited[(x,y)] == False:
-                                q.append((x,y))
+                                s.append((x,y))
     return 'no'
 
 print(dfs())
