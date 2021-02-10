@@ -30,6 +30,8 @@ Triangle Times: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%2
 Party Invitation: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202014/S1.py) - 15/15<br />
 Assigning Partners: [S2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202014/S2.py) - 15/15<br />
 
+## CCC 2015 Solutions
+Zero That Out: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202015/S1.py) - 15/15 <br />
 
 ## CCC 2019 Solutions
 Winning Score: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202019/J1.py) - 15/15<br />
