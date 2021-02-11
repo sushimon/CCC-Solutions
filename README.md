@@ -31,6 +31,9 @@ Party Invitation: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc
 Assigning Partners: [S2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202014/S2.py) - 15/15<br />
 
 ## CCC 2015 Solutions
+Special Day: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202015/J1.py) - 15/15 <br />
+Happy or Sad: [J2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202015/J2.py) - 15/15 <br /><br />
+
 Zero That Out: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202015/S1.py) - 15/15 <br />
 
 ## CCC 2019 Solutions
