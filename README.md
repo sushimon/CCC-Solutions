@@ -16,6 +16,10 @@ Computer Purchase: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/cc
 
 
 ## CCC 2011 Solutions
+Which Alien?: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202011/J1.py) - 15/15<br />
+Who Has Seen The Wind: [J2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202011/J2.py) - 15/15<br />
+Sumac Sequences: [J3](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202011/J3.py) - 15/15<br /><br />
+
 English or French?: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202011/S1.py) - 15/15<br />
 Multiple Choice: [S2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202011/S2.py) - 15/15<br />
 
