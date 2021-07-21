@@ -34,11 +34,13 @@ Triangle Times: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%2
 Party Invitation: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202014/S1.py) - 15/15<br />
 Assigning Partners: [S2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202014/S2.py) - 15/15<br />
 
+
 ## CCC 2015 Solutions
 Special Day: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202015/J1.py) - 15/15 <br />
 Happy or Sad: [J2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202015/J2.py) - 15/15 <br /><br />
 
 Zero That Out: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202015/S1.py) - 15/15 <br />
+
 
 ## CCC 2019 Solutions
 Winning Score: [J1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202019/J1.py) - 15/15<br />
@@ -57,3 +59,8 @@ Cyclic Shifts: [J4](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%20
 Escape Room: [J5](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202020/J5%20v3.py) - 13/15<br /><br />
 
 Surmising a Sprinter's Speed: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202020/S1.py) - 15/15<br />
+
+
+## CCC 2021 Solutions
+Crazy Fencing: [S1](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202021/S1.py) - 15/15<br />
+Modern Art: [S2](https://github.com/sushimon/CCC-Solutions/blob/master/ccc%202021/S2.py) - 10/15<br />
